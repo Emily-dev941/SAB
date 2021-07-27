@@ -1,0 +1,2 @@
+mordecode : funciona para decodificar un texto en morse
+morencode : sirve para convertir y texto a morse
