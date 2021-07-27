@@ -185,3 +185,8 @@ while True:
         print(bl)
         for c in range(0,veces):
            numos(caracteres[1])
+    elif respuesta == 4:
+        sutil(ro+"Saliendo..."+bl)
+        sys.exit()
+    else:
+        sutil(am+"La opción no existe")
