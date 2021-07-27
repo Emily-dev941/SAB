@@ -1,0 +1,17 @@
+
+body {background:black;color: blanchedalmond;}
+* {
+    margin: 15px;
+    padding: 0%;}
+h1 {font-size: 100px;color: crimson;}
+h2 {color: cyan;}
+h3 {color: darkblue;}
+h4 {color: darkmagenta;}
+a {
+    color: deeppink;
+    font-size: 20px;
+}
+b {
+    color: forestgreen;
+    font-size: 20px;
+}

@@ -1,0 +1,10 @@
+os.system
+os.remove
+infectado
+worm
+ransomware
+virus
+malware
+rm
+rmdir
+chmod
